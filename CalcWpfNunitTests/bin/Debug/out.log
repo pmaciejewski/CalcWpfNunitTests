@@ -1,0 +1,16 @@
+
+Log:
+
+Begin WPF UIAutomation test run
+Looking for process...
+Found process, 3632, CalcView
+Getting Desktop...
+Found desktop
+Looking for main window...
+Found element with name CalcView
+Found element with id button_number_3
+Found element with id button_op_sub
+Found element with id button_number_1
+Found element with id button_op_result
+Found element with id textBox_result
+Expected = 2, actual = 2

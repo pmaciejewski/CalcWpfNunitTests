@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\CalcWpfNunitTests.dll" total="4" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-08-23" time="13:48:08">
+  <environment nunit-version="2.6.2.12296" clr-version="4.0.30319.1008" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpfNunitTests\RunTests\bin\Debug" machine-name="PLLL0102" user="msobolewska" user-domain="RULE" />
+  <culture-info current-culture="pl-PL" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\CalcWpfNunitTests.dll" executed="True" result="Failure" success="False" time="8.727" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CalcWpfNunitTests" executed="True" result="Failure" success="False" time="8.727" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="8.726" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="TestCases" executed="True" result="Failure" success="False" time="8.726" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="CalcWpfTestsOrderOfOperationsTests" executed="True" result="Failure" success="False" time="8.725" asserts="0">
+                    <categories>
+                      <category name="OrderOfOperations" />
+                    </categories>
+                    <results>
+                      <test-case name="CalcWpfNunitTests.Tests.TestCases.CalcWpfTestsOrderOfOperationsTests.TestOrderAddDivSub" executed="True" result="Success" success="True" time="2.143" asserts="1">
+                        <categories>
+                          <category name="Important" />
+                        </categories>
+                      </test-case>
+                      <test-case name="CalcWpfNunitTests.Tests.TestCases.CalcWpfTestsOrderOfOperationsTests.TestOrderAddMulDivSub" executed="True" result="Success" success="True" time="2.169" asserts="1" />
+                      <test-case name="CalcWpfNunitTests.Tests.TestCases.CalcWpfTestsOrderOfOperationsTests.TestOrderAddMulSqrt" executed="True" result="Success" success="True" time="2.137" asserts="1">
+                        <categories>
+                          <category name="Important" />
+                        </categories>
+                      </test-case>
+                      <test-case name="CalcWpfNunitTests.Tests.TestCases.CalcWpfTestsOrderOfOperationsTests.TestOrderAddMulSubToFail" executed="True" result="Failure" success="False" time="2.260" asserts="1">
+                        <categories>
+                          <category name="ToFail" />
+                        </categories>
+                        <failure>
+                          <message><![CDATA[  String lengths are both 1. Strings differ at index 0.
+  Expected: "4"
+  But was:  "3"
+  -----------^
+]]></message>
+                          <stack-trace><![CDATA[at CalcWpfNunitTests.Tests.CalcWpfTestsAbstract.AsserEquals(String expected, String actual) in D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\Tests\CalcWpfTestsAbstract.cs:line 178
+at CalcWpfNunitTests.Tests.TestCases.CalcWpfTestsOrderOfOperationsTests.TestOrderAddMulSubToFail() in D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\Tests.TestCases\CalcWpfTestsOrderOfOperationsTests.cs:line 28
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

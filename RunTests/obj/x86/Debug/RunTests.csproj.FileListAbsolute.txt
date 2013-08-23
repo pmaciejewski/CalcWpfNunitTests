@@ -1,0 +1,5 @@
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\RunTests\bin\Debug\RunTests.exe
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\RunTests\bin\Debug\RunTests.pdb
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\RunTests\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\RunTests\obj\x86\Debug\RunTests.exe
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\RunTests\obj\x86\Debug\RunTests.pdb

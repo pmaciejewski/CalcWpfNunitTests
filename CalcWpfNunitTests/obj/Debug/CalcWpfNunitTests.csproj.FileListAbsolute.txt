@@ -1,0 +1,7 @@
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\CalcWpfNunitTests.dll
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\CalcWpfNunitTests.pdb
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\nunit.framework.dll
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\bin\Debug\nunit.framework.xml
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\obj\Debug\ResolveAssemblyReference.cache
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\obj\Debug\CalcWpfNunitTests.dll
+d:\users\msobolewska\documents\visual studio 2010\Projects\CalcWpfNunitTests\CalcWpfNunitTests\obj\Debug\CalcWpfNunitTests.pdb
