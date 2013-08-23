@@ -276,6 +276,12 @@ namespace CalcWpfNunitTests.Tests
             Console.WriteLine(messageToLog);
         }
 
+        /// <summary>
+        /// When screenshots_folder_overide property is set to true, it removes the default Screenshots folder (set by screenshots_folder property) and its entire content.
+        /// When screenshots_folder_overide property is set to false it creates new folder with timestamp in name. 
+        /// </summary>
+        /// <param name="screenshotsFolder"></param>
+        /// <returns></returns>
         public static string SetScreenshotFolder(string screenshotsFolder)
         {
             // If screen_shots_folder property ends with \, remove last character
@@ -301,7 +307,7 @@ namespace CalcWpfNunitTests.Tests
         }
 
         /// <summary>
-        /// Will take a screenshot and save it to folder set by screen_shots_folder property
+        /// Will take a screenshot and save it to folder set by _screenshotsFolder variable
         /// </summary>
         public void TakeScreenShot()
         {
