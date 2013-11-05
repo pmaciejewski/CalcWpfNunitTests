@@ -11,7 +11,8 @@ namespace RunTests
     class Run
     {
         // path to latest NUnit bin folder
-        private static readonly string nunitFolder = @"C:\Program Files (x86)\NUnit 2.6.2\bin";
+        // TODO - this should be changed, so it would automatically run latest version without using hard-coded path
+        private static readonly string nunitFolder = @"C:\Program Files (x86)\NUnit 2.6.3\bin";
         // if you prefer you can set "NUNIT" environment variable with NUnit bin folder path and then use: Environment.GetEnvironmentVariable("NUNIT");
 
         // Without this attribute "DragDrop registration did not succeed" exception occurs while starting without debugging. For more info check: http://stackoverflow.com/questions/135803/dragdrop-registration-did-not-succeed
